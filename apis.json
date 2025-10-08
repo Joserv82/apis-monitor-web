@@ -1,0 +1,6 @@
+[
+    {"name": "API 1", "url": "http://api1.example.com/health"},
+    {"name": "API 2", "url": "http://api2.example.com/health"},
+    {"name": "API 3", "url": "http://api3.example.com/health"}
+
+]
