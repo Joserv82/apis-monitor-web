@@ -5,6 +5,7 @@ const fs = requiere('fs');
 const app = express();
 const PORT = 3000;
 //agregamos un comentario para subir este cambio
+//agrega com para ver cambio solo en server
 app.use(express.static('public'));
 
 app.get('/api/status', async (req, res) => {
