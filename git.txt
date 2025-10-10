@@ -1,0 +1,16 @@
+comandos de git
+git config user.name te muestra el nombre de usuario
+git config user.email te muestra el correo que esta vinculado a tu git
+pwd te muestra en que carpeta estas ahorita
+cd namecarpeta te lleva a la carpeta dentro de la que estas 
+cd .. te regresa una carpeta atras de donde estas 
+git init inicaliza un nuevo repositorio
+clear limpia la terminal 
+ctrl + c o + d te saca de la terminal 
+code . abre el vscode
+git status te muestra los cmabios que se han hecho y te da pie a lo que falta por hacer
+mkdir namecarpeta te crea una carpeta nueva 
+touch namearchivo te crea un archivo nuevo con la extension que le agregues 
+ls te lista los objetos que tengas dentro de la carpeta o repositorio dnde estes
+git add . agrega todos los archivos que tengan cambios para hacer el comit 
+git add namearchivo se agrega el cambio a solo ese archivo que se puso y si hay mas cmabios en otros archivos no se toman en cuenta para subirse 
