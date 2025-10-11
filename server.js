@@ -19,7 +19,6 @@ app.get('/api/status', async (req, res) => {
         let response;
 
         if (api.url.includes('Validator/ValidateXml')) {
-          // 🔹 Enviar el formato correcto
           const body = {
             _File: xmlBase64,
             ApiKey: '89ad7840-f772-4b21-bd60-2c6d8025ba2f'
