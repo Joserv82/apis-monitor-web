@@ -1,3 +1,6 @@
 [
-    {"name": "ValidateXml", "url": "https://testapivalidador.sulemp.com/api/Validator/ValidateXml"}
+    {"name": "ValidateXml", "url": "https://testapivalidador.sulemp.com/api/Validator/ValidateXml"},
+    {"name": "GetValidationInfo", "url": "https://testapivalidador.sulemp.com/api/Validator/GetValidationInfo"},
+    {"name": "GetValidationsDocument", "url" : "https://testapivalidador.sulemp.com/api/Validator/GetValidationsDocument"},
+    {"name": "GetValidationsXmlData", "url" : "https://testapivalidador.sulemp.com/api/Validator/GetValidationsXmlData"}
 ]
